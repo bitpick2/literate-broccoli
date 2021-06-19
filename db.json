@@ -2,21 +2,24 @@
     "tokens": [
         {
             "id": 0,
-            "name": "ProvaNFT"
             "description": "My NFT",
-            "image": "https://robohash.org/progetto bussana",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 0"
         },
         {
             "id": 1,
-            "name": "ProvaNFT"
             "description": "My NFT",
-            "image": "https://robohash.org/Marco",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 1"
         },
         {
             "id": 2,
-            "name": "ProvaNFT"
             "description": "My NFT",
-            "image": "https://robohash.org/Gigi",
+            "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+            "name": "My NFT 2"
         }
     ]
 }
