@@ -1,22 +1,38 @@
 {
-    "tokens": [
-        {
-            "id": 0,
-            "description": "My NFT",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 0"
-        },
-        {
-            "id": 1,
-            "description": "My NFT",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 1"
-        },
-        {
-            "id": 2,
-            "description": "My NFT",
-            "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-            "name": "My NFT 2"
-        }
-    ]
+    "tokens":[{
+        "id":0,
+        "description":"My NFT 0",
+        "image": "https://robohash.org/nft0.png"
+    },
+    {
+        "id":1,
+        "description":"My NFT 1",
+        "image": "https://robohash.org/nft1.png"
+    },
+    {
+        "id":2,
+        "description":"My NFT 2",
+        "image": "https://robohash.org/nft2.png"
+    },
+    {
+        "id":2,
+        "description":"My NFT 3",
+        "image": "https://robohash.org/nft3.png"
+    },
+    {
+        "id":2,
+        "description":"My NFT 4",
+        "image": "https://robohash.org/nft4.png"
+    },
+    {
+        "id":2,
+        "description":"My NFT 5",
+        "image": "https://robohash.org/nft5.png"
+    },
+    {
+        "id":2,
+        "description":"My NFT 6",
+        "image": "https://robohash.org/nft6.png"
+    }
+]
 }
